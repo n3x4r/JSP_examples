@@ -1,0 +1,10 @@
+#surefire
+#Mon Jul 30 12:11:25 CEST 2018
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\cscacho\\Documents\\NetBeansProjects\\mavenproject9
+file.encoding=UTF-8
+localRepository=C\:\\Users\\cscacho\\.m2\\repository
+netbeans.deploy=true
+netbeans.deploy.debugmode=true
+netbeans.deploy.clientUrlPart=/formulario_login.html
+basedir=C\:\\Users\\cscacho\\Documents\\NetBeansProjects\\mavenproject9
