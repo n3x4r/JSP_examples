@@ -24,7 +24,7 @@
         <br/><br/>
         ${param.country}
         <br/><br/>
-        Programing Language : ${param.language_prog}
+        Programming Language : ${param.language_prog}
         <br/><br/>
          <% 
              String[] langs =  request.getParameterValues("language_prog2");
